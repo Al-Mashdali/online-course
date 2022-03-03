@@ -1,0 +1,39 @@
+.way  {
+  border: 1px solid black;
+  margin-top: 400px;
+  margin-bottom: 600px;
+  margin-right: 300px;
+  margin-left: 200px;
+  background-color: lightblue;
+   
+  }
+
+  img{
+    padding: 0px;
+    border-radius: 50px;
+    height: 300px;
+    width: 150px;
+    margin-right: 250px;
+    margin-left: 10px; 
+    margin-bottom: 0px;
+    
+  }
+
+  #cards{
+    border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-right: 250px;
+    margin-left: 250px;
+  }
+
+  .bild {
+    border-radius: 100px 100px 100px;
+  width: 1800px;
+  height: 300px; 
+  margin-right: 500px;
+  margin-left: 500px;
+   
+
+  }
+   
